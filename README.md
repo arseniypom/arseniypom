@@ -1,4 +1,15 @@
-### Hi there 👋
+# Здравствуй! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+
+### Меня зовут Арсений, и я фронтенд-разработчик
+
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* React
+
+📫 Связаться со мной: [telegram](https://telegram...), [мой сайт-портфолио](https://...)
+
+
 
 <!--
 **arseniypom/arseniypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
