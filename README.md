@@ -26,13 +26,14 @@ My name is Arseniy and I am a front-end developer. I work at VTB, an innovative 
 * [ ] Travel the world    
 <!-- TODO-IST:END -->
 
-📫 How to reach me:
+📫 How to reach me: <p>
 <a href="https://www.linkedin.com/in/arseniy-pomazkov-79a0901a2/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/trustw0rthy">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+  </p>
 <!--
 **arseniypom/arseniypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
