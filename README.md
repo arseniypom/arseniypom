@@ -26,7 +26,7 @@ My name is Arseniy and I am a front-end developer. I work at VTB, an innovative 
 * [ ] Travel the world    
 <!-- TODO-IST:END -->
 
-- 📫 How to reach me:
+📫 How to reach me:
 <a href="https://www.linkedin.com/in/arseniy-pomazkov-79a0901a2/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
