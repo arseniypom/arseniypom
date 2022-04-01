@@ -1,7 +1,4 @@
-<h1 align="center">You've discovered <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Arseniy Pomazkov on GitHub!</h1>
-
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">You've discovered <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a> on GitHub!✨</h1>
 
 
 <br />
@@ -37,6 +34,8 @@ My name is Arseniy and I am a front-end developer. I work at VTB, an innovative 
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
   </p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=arseniypom)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **arseniypom/arseniypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
