@@ -27,8 +27,11 @@ My name is Arseniy and I am a front-end developer. I work at VTB, an innovative 
 <!-- TODO-IST:END -->
 
 <h1 align="center">Statisctics ⚡️</h1>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniypom)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Achievements</h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **arseniypom/arseniypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
