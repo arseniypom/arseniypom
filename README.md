@@ -2,7 +2,6 @@
 
 
 <br />
-<br />
 <p align="center">
   <a href="https://arseniy-pomazkov.web.app/" target="_blank">
     <img alt="My web-site" src="https://img.shields.io/badge/UnicornWitnesses.com-FF6719?style=for-the-badge&logo=substack&logoColor=white">
@@ -11,7 +10,7 @@
     <img alt="Arseniy Pomazkov Linkedin Connect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/pomazkovjs" target="_blank">
-    <img alt="Pomazkov JS Twitter Profile" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=Arseniy%20Pomazkov&logo=twitter&style=for-the-badge">
+    <img alt="Pomazkov JS Twitter Profile" src="https://img.shields.io/twitter/follow/pomazkovjs?color=blue&label=Arseniy%20Pomazkov&logo=twitter&style=for-the-badge">
   </a>
 </p>
 
