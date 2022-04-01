@@ -1,4 +1,4 @@
-<h1 align="center">You've discovered <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a> on GitHub!✨</h1>
+<h1 align="center">You've discovered me (<a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a>) on GitHub!✨</h1>
 
 
 <br />
