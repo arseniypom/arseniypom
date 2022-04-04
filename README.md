@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://arseniy-pomazkov.web.app/" target="_blank">
-    <img alt="My web-site" src="https://img.shields.io/badge/UnicornWitnesses.com-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+    <img alt="My web-site" src="https://img.shields.io/badge/arseniypomazkov.web.app-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    </a>
   <a href="https://www.linkedin.com/in/arseniy-pomazkov" target="_blank">
     <img alt="Arseniy Pomazkov Linkedin Connect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
