@@ -18,14 +18,14 @@ My name is Arseniy and I am a full-stack web-developer. Currently working as a f
 
 <br />
 
-⚡️ **My current goals:**
+✅ **My current goals:**
 <!-- TODO-IST:START -->
 * [x] Master front-end development
 * [x] Dive into back-end
 * [ ] Launch a start-up   
 <!-- TODO-IST:END -->
 
-<h1 align="center">Statisctics ⚡️</h1>
+<h1 align="center">Statisctics 📈</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniypom)](https://github.com/anuraghazra/github-readme-stats)
 
