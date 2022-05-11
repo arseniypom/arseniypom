@@ -14,26 +14,15 @@
   </a>
 </p>
 
-My name is Arseniy and I am a front-end developer. I work at VTB, an innovative and global provider of financial services, in new technologies' aprobation department.
+My name is Arseniy and I am a full-stack web-developer. Currently working as a frontend engineer at AMAI – an innovative provider of ultra realistic text-to-speech voice engines – I am focused on building helpful, good-looking and customer-centred SaaS products.
 
 <br />
 
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
-🚧 **My current goals:**
+⚡️ **My current goals:**
 <!-- TODO-IST:START -->
-* [x] Improve my skills in React & Redux
-* [ ] Dive into back-end
-* [ ] Travel the world    
+* [x] Master front-end development
+* [x] Dive into back-end
+* [ ] Launch a start-up   
 <!-- TODO-IST:END -->
 
 <h1 align="center">Statisctics ⚡️</h1>
