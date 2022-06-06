@@ -13,8 +13,9 @@
     <img alt="Pomazkov JS Twitter Profile" src="https://img.shields.io/twitter/follow/pomazkovjs?color=blue&label=Arseniy%20Pomazkov&logo=twitter&style=for-the-badge">
   </a>
 </p>
-<p align="center">My name is Arseniy and I am a <strong>full-stack web-developer</strong>. Currently working as a frontend engineer at <a style="color: #08fdd8; font-weight:bold;" href="https://amai.io/" target="_blank">AMAI</a> – an innovative provider of ultra realistic text-to-speech voice engines – I am focused on building helpful, good-looking and customer-centred SaaS products.</p>
-
+<p align="center">My name is Arseniy and I am a <strong>full-stack web-developer</strong>.
+<!-- Currently working as a frontend engineer at <a style="color: #08fdd8; font-weight:bold;" href="https://amai.io/" target="_blank">AMAI</a> – an innovative provider of ultra realistic text-to-speech voice engines – I am focused on building helpful, good-looking and customer-centred SaaS products.</p>
+ -->
 <br />
 
 ✅ **My current goals:**
