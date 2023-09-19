@@ -1,7 +1,15 @@
-<h1 align="center">Hello there! It's me, <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a> on GitHub!✨</h1>
-
-
+<h1 align="center">Greetings!</h1>
+<p align="center">My name is <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a> and I am a <strong>Senior Front-end developer</strong>.</p>
 <br />
+
+✅ **What I'm proud of:**
+
+- [x] I launched an innovative FinTech portal
+- [x] Helped 7 people get a first job / promotion in Tech ad a mentor
+- [x] Spreading knowledge & experience through <a href="https://pomazkov.hashnode.dev/" target="_blank">Hashnode [ENG]</a>, <a href="https://www.instagram.com/pomazkov.js/" target="_blank">Instagram [RU]</a> and <a href="https://www.youtube.com/@pomazkovjs" target="_blank">YouTube [RU]</a> with <strong>total audience of 15k+</strong>
+
+<h2 align="center">My links 📈</h2>
+
 <p align="center">
   <a href="https://arseniy-pomazkov.web.app/" target="_blank">
     <img alt="My web-site" src="https://img.shields.io/badge/arseniypomazkov.web.app-FF6719?style=for-the-badge&logo=substack&logoColor=white">
@@ -10,28 +18,15 @@
     <img alt="Arseniy Pomazkov Linkedin Connect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/pomazkovjs" target="_blank">
-    <img alt="Pomazkov JS Twitter Profile" src="https://img.shields.io/twitter/follow/pomazkovjs?color=blue&label=Arseniy%20Pomazkov&logo=twitter&style=for-the-badge">
+    <img alt="Pomazkov JS Twitter Profile" src="https://img.shields.io/twitter/follow/pomazkovjs?color=blue&label=Pomazkov%20JS&logo=twitter&style=for-the-badge">
   </a>
 </p>
-<p align="center">My name is Arseniy and I am a <strong>Front-end developer</strong>.
-<!-- Currently working as a frontend engineer at <a style="color: #08fdd8; font-weight:bold;" href="https://amai.io/" target="_blank">AMAI</a> – an innovative provider of ultra realistic text-to-speech voice engines – I am focused on building helpful, good-looking and customer-centred SaaS products.</p>
- -->
-<br />
 
-✅ **My current goals:**
-<!-- TODO-IST:START -->
-* [x] Master front-end development
-* [x] Dive into back-end
-* [ ] Launch a start-up   
-<!-- TODO-IST:END -->
 
-<h1 align="center">Statisctics 📈</h1>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniypom)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1 align="center">Achievements</h1>
+<h2 align="center">Coding Achievements</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **arseniypom/arseniypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
