@@ -1,14 +1,13 @@
 <h1 align="center">Greetings!</h1>
-<p align="center">My name is <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a> and I am a <strong>Senior Front-end developer</strong>.</p>
-<br />
+<h3 align="center">My name is <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a><br />I am a Senior Front-end developer.</h3>
 
-✅ **What I'm proud of:**
+<h2 align="center">What I'm proud of 🌟</h2>
 
 - [x] I launched an innovative FinTech portal
 - [x] Helped 7 people get a first job / promotion in Tech ad a mentor
 - [x] Spreading knowledge & experience through <a href="https://pomazkov.hashnode.dev/" target="_blank">Hashnode [ENG]</a>, <a href="https://www.instagram.com/pomazkov.js/" target="_blank">Instagram [RU]</a> and <a href="https://www.youtube.com/@pomazkovjs" target="_blank">YouTube [RU]</a> with <strong>total audience of 15k+</strong>
 
-<h2 align="center">My links 📈</h2>
+<h2 align="center">My links 🔗</h2>
 
 <p align="center">
   <a href="https://arseniy-pomazkov.web.app/" target="_blank">
@@ -22,8 +21,7 @@
   </a>
 </p>
 
-
-<h2 align="center">Coding Achievements</h2>
+<h2 align="center">Coding Achievements 💻</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
