@@ -5,7 +5,7 @@
 
 - [x] Launched an innovative FinTech portal
 - [x] Helped 7 people get a first job / promotion in Tech as a mentor
-- [x] Spreading knowledge & experience through <a href="https://pomazkov.hashnode.dev/" target="_blank">Hashnode [ENG]</a>, <a href="https://www.instagram.com/pomazkov.js/" target="_blank">Instagram [RU]</a> and <a href="https://www.youtube.com/@pomazkovjs" target="_blank">YouTube [RU]</a> with <strong>total audience of 15k+</strong>
+- [x] Spreading knowledge & experience through <a href="https://pomazkov.hashnode.dev/" target="_blank">Hashnode [ENG]</a>, <a href="https://www.instagram.com/pomazkov.js/" target="_blank">Instagram [RU]</a> and <a href="https://www.youtube.com/@pomazkovjs" target="_blank">YouTube [RU]</a> with <strong>total audience of 22k+</strong>
 
 <h2 align="center">My links 🔗</h2>
 
