@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/arseniy-pomazkov" target="_blank">
     <img alt="Arseniy Pomazkov Linkedin Connect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/pomazkovjs" target="_blank">
-    <img alt="Pomazkov JS Twitter Profile" src="https://img.shields.io/twitter/follow/pomazkovjs?color=blue&label=Pomazkov%20JS&logo=twitter&style=for-the-badge">
-  </a>
 </p>
 
 <h2 align="center">Coding Achievements 💻</h2>
