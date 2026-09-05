@@ -1,5 +1,5 @@
 <h1 align="center">Greetings!</h1>
-<h3 align="center">My name is <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a><br />I am a Senior Front-end developer.</h3>
+<h3 align="center">My name is <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a><br />I am a Senior Software Engineer</h3>
 
 <h2 align="center">What I'm proud of 🌟</h2>
 
@@ -10,8 +10,8 @@
 <h2 align="center">My links 🔗</h2>
 
 <p align="center">
-  <a href="https://arseniy-pomazkov.web.app/" target="_blank">
-    <img alt="My web-site" src="https://img.shields.io/badge/arseniypomazkov.web.app-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+  <a href="https://www.pomazkov.com/" target="_blank">
+    <img alt="My web-site" src="https://img.shields.io/badge/pomazkov.com-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    </a>
   <a href="https://www.linkedin.com/in/arseniy-pomazkov" target="_blank">
     <img alt="Arseniy Pomazkov Linkedin Connect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
