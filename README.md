@@ -1,5 +1,5 @@
 <h1 align="center">Greetings!</h1>
-<h3 align="center">My name is <a href="https://arseniy-pomazkov.web.app/" target="_blank">Arseniy Pomazkov</a><br />I am a Senior Software Engineer</h3>
+<h3 align="center">My name is <a href="https://pomazkov.com" target="_blank">Arseniy Pomazkov</a><br />I am a Senior Software Engineer</h3>
 
 <h2 align="center">What I'm proud of 🌟</h2>
 
